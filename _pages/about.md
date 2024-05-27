@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is JungHo. I am a first-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Melloon University. This website is under construction. 
+Hi! My name is JungHo. I am a first-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Mellon University. This website is under construction. 
