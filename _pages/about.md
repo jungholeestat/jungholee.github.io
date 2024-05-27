@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.cmu.edu/dietrich/statistics-datascience/index.html'>Department of Statistics & Data Science, Carnegie Mellon University </a>. 
 
 profile:
   align: right
