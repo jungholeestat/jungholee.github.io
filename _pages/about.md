@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>123 5000 Forbes Ave </p>
+    <p>5000 Forbes Ave </p>
     <p>Pittsburgh, PA 15213 </p>
 
 news: true # includes a list of news items
