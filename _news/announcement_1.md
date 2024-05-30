@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [ML-assisted randomization tests](https://jungholeestat.github.io/assets/pdf/poster_ml_assisted.pdf) at ACIC 2024. The work is currently under review.
+Presented [ML-assisted randomization tests](https://jungholeestat.github.io/assets/pdf/poster_ml_assisted.pdf) at ACIC 2024. The work is under review.
