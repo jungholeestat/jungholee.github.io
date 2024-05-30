@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-05-16 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented [ML-assisted randomization tests](https://jungholeestat.github.io/assets/pdf/poster_ml_assisted.pdf) at ACIC 2024. The work is currently under review.
