@@ -230,6 +230,7 @@ exclude:
   - _pages/projects.md
   - _pages/dropdown.md
   - _pages/profiles.md
+  - _pages/cv.md
 
   - purgecss.config.js
   - README.md
