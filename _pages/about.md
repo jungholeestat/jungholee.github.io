@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>5000 Forbes Ave</p>
     <p>Pittsburgh, PA 15213</p>
-    <p> <sub> junghol (at) andrew (dot) cmu (dot) edu </sub> </p>
+    <p> <sub> junghol@andrew.cmu.edu </sub> </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
