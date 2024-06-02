@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cmu.edu/dietrich/statistics-datascience/index.html'>Department of Statistics & Data Science, Carnegie Mellon University</a>. 
+subtitle: <a href='https://www.cmu.edu/dietrich/statistics-datascience/index.html'>Department of Statistics & Data Science, Carnegie Mellon University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5000 Forbes Ave </p>
-    <p>Pittsburgh, PA 15213 </p>
+    <p>5000 Forbes Ave</p>
+    <p>Pittsburgh, PA 15213</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is JungHo. I am a first-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Mellon University. This website is under construction. 
+Hi! My name is JungHo. I am a first-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Mellon University. This website is under construction.
