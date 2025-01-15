@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is JungHo. I am a second-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Mellon University, advised by [Edward H. Kennedy](https://www.ehkennedy.com/). I am primarily interested in causal inference, machine learning, and nonparametric statistics, with applications to public policy-making and online experimentation. Here is my [CV](https://jungholeestat.github.io/assets/pdf/JungHo_CV.pdf).
+Hi! My name is JungHo. I am a second-year Ph.D. student in the joint Statistics and Public Policy program at Carnegie Mellon University, advised by [Edward H. Kennedy](https://www.ehkennedy.com/). I am primarily interested in causal inference, machine learning, and nonparametric statistics, with applications in public policy, health services, and online experimentation. Here is my [CV](https://drive.google.com/file/d/14GinuJRDHs1h_3keKMn3NXUj9AiTL6Nw/view?usp=sharing).
 
 Before CMU, I obtained an M.S. in Statistics from the University of Chicago, where I worked on randomization inference and numerical analysis under the guidance of [Panos Toulis](https://www.ptoulis.com/) and [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/).
